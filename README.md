@@ -43,7 +43,8 @@ Improving inventory and menu planning
 Enhancing sales strategies
 Supporting business decision-making with data
 
- Output sreenshots are as below:
+9. Output sreenshots are as below:
+
  https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/Daily%20order%20trend.png
  
  https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/category%20wise%20monthly%20sales%20percentage.png
@@ -51,6 +52,9 @@ Supporting business decision-making with data
 https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/top%205%20best%20sellers.png
 
 https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/Bottom%20%205%20sellers.png
+
+Full project available upon request on my email id: malinibhattacharya59@gmail.com
+
  
 
 
