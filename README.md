@@ -48,6 +48,7 @@ Supporting business decision-making with data
  https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/category%20wise%20monthly%20sales%20percentage.png
 
 https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/top%205%20best%20sellers.png
+https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/Bottom%20%205%20sellers.png
  
 
 
