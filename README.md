@@ -44,5 +44,5 @@ Enhancing sales strategies
 Supporting business decision-making with data
 
 Project PDF Link is as below:
-https://github.com/maliniya30-del/pizza_sql_pdf/tree/main
+
 
