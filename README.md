@@ -45,6 +45,7 @@ Supporting business decision-making with data
 
  Output sreenshots are as below:
  https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/Daily%20order%20trend.png
+ https://github.com/maliniya30-del/pizza_sql_pdf/blob/main/category%20wise%20monthly%20sales%20percentage.png
  
 
 
