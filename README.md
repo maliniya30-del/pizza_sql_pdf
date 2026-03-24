@@ -43,7 +43,8 @@ Improving inventory and menu planning
 Enhancing sales strategies
 Supporting business decision-making with data
 
-Project PDF Link is as below:
+ Output sreenshots are as below:
+ 
 
 
 
